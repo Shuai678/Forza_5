@@ -1,0 +1,16 @@
+C:\Users\ziyis\OneDrive\Desktop\forza 5\bin\Debug\net6.0-windows\forza 5.exe
+C:\Users\ziyis\OneDrive\Desktop\forza 5\bin\Debug\net6.0-windows\forza 5.deps.json
+C:\Users\ziyis\OneDrive\Desktop\forza 5\bin\Debug\net6.0-windows\forza 5.runtimeconfig.json
+C:\Users\ziyis\OneDrive\Desktop\forza 5\bin\Debug\net6.0-windows\forza 5.dll
+C:\Users\ziyis\OneDrive\Desktop\forza 5\bin\Debug\net6.0-windows\forza 5.pdb
+C:\Users\ziyis\OneDrive\Desktop\forza 5\obj\Debug\net6.0-windows\forza_5.Form1.resources
+C:\Users\ziyis\OneDrive\Desktop\forza 5\obj\Debug\net6.0-windows\forza 5.csproj.GenerateResource.cache
+C:\Users\ziyis\OneDrive\Desktop\forza 5\obj\Debug\net6.0-windows\forza 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ziyis\OneDrive\Desktop\forza 5\obj\Debug\net6.0-windows\forza 5.AssemblyInfoInputs.cache
+C:\Users\ziyis\OneDrive\Desktop\forza 5\obj\Debug\net6.0-windows\forza 5.AssemblyInfo.cs
+C:\Users\ziyis\OneDrive\Desktop\forza 5\obj\Debug\net6.0-windows\forza 5.csproj.CoreCompileInputs.cache
+C:\Users\ziyis\OneDrive\Desktop\forza 5\obj\Debug\net6.0-windows\forza 5.dll
+C:\Users\ziyis\OneDrive\Desktop\forza 5\obj\Debug\net6.0-windows\refint\forza 5.dll
+C:\Users\ziyis\OneDrive\Desktop\forza 5\obj\Debug\net6.0-windows\forza 5.pdb
+C:\Users\ziyis\OneDrive\Desktop\forza 5\obj\Debug\net6.0-windows\forza 5.genruntimeconfig.cache
+C:\Users\ziyis\OneDrive\Desktop\forza 5\obj\Debug\net6.0-windows\ref\forza 5.dll

@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ziyis\\OneDrive\\Desktop\\forza 5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABF44BF-FC56-4079-983F-5A59E03D594E}|forza 5.csproj|c:\\users\\ziyis\\onedrive\\desktop\\forza 5\\grandezze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABF44BF-FC56-4079-983F-5A59E03D594E}|forza 5.csproj|solutionrelative:grandezze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABF44BF-FC56-4079-983F-5A59E03D594E}|forza 5.csproj|c:\\users\\ziyis\\onedrive\\desktop\\forza 5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABF44BF-FC56-4079-983F-5A59E03D594E}|forza 5.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABF44BF-FC56-4079-983F-5A59E03D594E}|forza 5.csproj|c:\\users\\ziyis\\onedrive\\desktop\\forza 5\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABF44BF-FC56-4079-983F-5A59E03D594E}|forza 5.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABF44BF-FC56-4079-983F-5A59E03D594E}|forza 5.csproj|c:\\users\\ziyis\\onedrive\\desktop\\forza 5\\chess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABF44BF-FC56-4079-983F-5A59E03D594E}|forza 5.csproj|solutionrelative:chess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABF44BF-FC56-4079-983F-5A59E03D594E}|forza 5.csproj|c:\\users\\ziyis\\onedrive\\desktop\\forza 5\\scacchiera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABF44BF-FC56-4079-983F-5A59E03D594E}|forza 5.csproj|solutionrelative:scacchiera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABF44BF-FC56-4079-983F-5A59E03D594E}|forza 5.csproj|c:\\users\\ziyis\\onedrive\\desktop\\forza 5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9ABF44BF-FC56-4079-983F-5A59E03D594E}|forza 5.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABF44BF-FC56-4079-983F-5A59E03D594E}|forza 5.csproj|c:\\users\\ziyis\\onedrive\\desktop\\forza 5\\vittoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABF44BF-FC56-4079-983F-5A59E03D594E}|forza 5.csproj|solutionrelative:vittoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Vittoria.cs",
+              "DocumentMoniker": "C:\\Users\\ziyis\\OneDrive\\Desktop\\forza 5\\Vittoria.cs",
+              "RelativeDocumentMoniker": "Vittoria.cs",
+              "ToolTip": "C:\\Users\\ziyis\\OneDrive\\Desktop\\forza 5\\Vittoria.cs",
+              "RelativeToolTip": "Vittoria.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:29:20.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ziyis\\OneDrive\\Desktop\\forza 5\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\ziyis\\OneDrive\\Desktop\\forza 5\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAlwGUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:25:34.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "chess.cs",
+              "DocumentMoniker": "C:\\Users\\ziyis\\OneDrive\\Desktop\\forza 5\\chess.cs",
+              "RelativeDocumentMoniker": "chess.cs",
+              "ToolTip": "C:\\Users\\ziyis\\OneDrive\\Desktop\\forza 5\\chess.cs",
+              "RelativeToolTip": "chess.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwEIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T22:19:48.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "scacchiera.cs",
+              "DocumentMoniker": "C:\\Users\\ziyis\\OneDrive\\Desktop\\forza 5\\scacchiera.cs",
+              "RelativeDocumentMoniker": "scacchiera.cs",
+              "ToolTip": "C:\\Users\\ziyis\\OneDrive\\Desktop\\forza 5\\scacchiera.cs",
+              "RelativeToolTip": "scacchiera.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBQAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T21:52:12.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "grandezze.cs",
+              "DocumentMoniker": "C:\\Users\\ziyis\\OneDrive\\Desktop\\forza 5\\grandezze.cs",
+              "RelativeDocumentMoniker": "grandezze.cs",
+              "ToolTip": "C:\\Users\\ziyis\\OneDrive\\Desktop\\forza 5\\grandezze.cs",
+              "RelativeToolTip": "grandezze.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T21:39:54.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ziyis\\OneDrive\\Desktop\\forza 5\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ziyis\\OneDrive\\Desktop\\forza 5\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T21:24:35.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\ziyis\\OneDrive\\Desktop\\forza 5\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ziyis\\OneDrive\\Desktop\\forza 5\\Form1.cs [Progettazione]",
+              "RelativeToolTip": "Form1.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T21:15:14.553Z",
+              "EditorCaption": " [Progettazione]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

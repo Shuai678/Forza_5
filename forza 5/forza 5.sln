@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "forza 5", "forza 5.csproj", "{9ABF44BF-FC56-4079-983F-5A59E03D594E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ABF44BF-FC56-4079-983F-5A59E03D594E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ABF44BF-FC56-4079-983F-5A59E03D594E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ABF44BF-FC56-4079-983F-5A59E03D594E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ABF44BF-FC56-4079-983F-5A59E03D594E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A666C795-5882-4F99-882F-A1F1A858C60F}
+	EndGlobalSection
+EndGlobal
