@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("forza 5")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc46d34cef6a9c81f8438ce78c12274efafed7b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("forza 5")]
 [assembly: System.Reflection.AssemblyTitleAttribute("forza 5")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

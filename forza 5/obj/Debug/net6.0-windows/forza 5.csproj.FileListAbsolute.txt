@@ -14,3 +14,20 @@ C:\Users\ziyis\OneDrive\Desktop\forza 5\obj\Debug\net6.0-windows\refint\forza 5.
 C:\Users\ziyis\OneDrive\Desktop\forza 5\obj\Debug\net6.0-windows\forza 5.pdb
 C:\Users\ziyis\OneDrive\Desktop\forza 5\obj\Debug\net6.0-windows\forza 5.genruntimeconfig.cache
 C:\Users\ziyis\OneDrive\Desktop\forza 5\obj\Debug\net6.0-windows\ref\forza 5.dll
+C:\Users\shuai.21032\Desktop\Forza_5\forza 5\bin\Debug\net6.0-windows\forza 5.exe
+C:\Users\shuai.21032\Desktop\Forza_5\forza 5\bin\Debug\net6.0-windows\forza 5.deps.json
+C:\Users\shuai.21032\Desktop\Forza_5\forza 5\bin\Debug\net6.0-windows\forza 5.runtimeconfig.json
+C:\Users\shuai.21032\Desktop\Forza_5\forza 5\bin\Debug\net6.0-windows\forza 5.dll
+C:\Users\shuai.21032\Desktop\Forza_5\forza 5\bin\Debug\net6.0-windows\forza 5.pdb
+C:\Users\shuai.21032\Desktop\Forza_5\forza 5\obj\Debug\net6.0-windows\forza_5.Form1.resources
+C:\Users\shuai.21032\Desktop\Forza_5\forza 5\obj\Debug\net6.0-windows\forza 5.csproj.GenerateResource.cache
+C:\Users\shuai.21032\Desktop\Forza_5\forza 5\obj\Debug\net6.0-windows\forza 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shuai.21032\Desktop\Forza_5\forza 5\obj\Debug\net6.0-windows\forza 5.AssemblyInfoInputs.cache
+C:\Users\shuai.21032\Desktop\Forza_5\forza 5\obj\Debug\net6.0-windows\forza 5.AssemblyInfo.cs
+C:\Users\shuai.21032\Desktop\Forza_5\forza 5\obj\Debug\net6.0-windows\forza 5.csproj.CoreCompileInputs.cache
+C:\Users\shuai.21032\Desktop\Forza_5\forza 5\obj\Debug\net6.0-windows\forza 5.sourcelink.json
+C:\Users\shuai.21032\Desktop\Forza_5\forza 5\obj\Debug\net6.0-windows\forza 5.dll
+C:\Users\shuai.21032\Desktop\Forza_5\forza 5\obj\Debug\net6.0-windows\refint\forza 5.dll
+C:\Users\shuai.21032\Desktop\Forza_5\forza 5\obj\Debug\net6.0-windows\forza 5.pdb
+C:\Users\shuai.21032\Desktop\Forza_5\forza 5\obj\Debug\net6.0-windows\forza 5.genruntimeconfig.cache
+C:\Users\shuai.21032\Desktop\Forza_5\forza 5\obj\Debug\net6.0-windows\ref\forza 5.dll

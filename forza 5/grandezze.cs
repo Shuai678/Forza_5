@@ -12,8 +12,8 @@ namespace forza_5
         private int altezzaForm = 1000;
         private int larghezzaScacchiera = 600;
         private int altezzaScacchiera = 600;
-        private int griglia = 50;
-        private int diametro = 37;
+        private int griglia = 40;
+        private int diametro = 30;
 
         public  int LarghezzaForm { get {return larghezzaForm; } }
         public int AltezzaForm { get { return altezzaForm; } }

@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\shuai.21032\\Desktop\\Forza_5\\forza 5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9ABF44BF-FC56-4079-983F-5A59E03D594E}|forza 5.csproj|c:\\users\\shuai.21032\\desktop\\forza_5\\forza 5\\chess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9ABF44BF-FC56-4079-983F-5A59E03D594E}|forza 5.csproj|solutionrelative:chess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9ABF44BF-FC56-4079-983F-5A59E03D594E}|forza 5.csproj|c:\\users\\shuai.21032\\desktop\\forza_5\\forza 5\\scacchiera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9ABF44BF-FC56-4079-983F-5A59E03D594E}|forza 5.csproj|solutionrelative:scacchiera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9ABF44BF-FC56-4079-983F-5A59E03D594E}|forza 5.csproj|c:\\users\\shuai.21032\\desktop\\forza_5\\forza 5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABF44BF-FC56-4079-983F-5A59E03D594E}|forza 5.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9ABF44BF-FC56-4079-983F-5A59E03D594E}|forza 5.csproj|c:\\users\\shuai.21032\\desktop\\forza_5\\forza 5\\grandezze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9ABF44BF-FC56-4079-983F-5A59E03D594E}|forza 5.csproj|solutionrelative:grandezze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9ABF44BF-FC56-4079-983F-5A59E03D594E}|forza 5.csproj|c:\\users\\shuai.21032\\desktop\\forza_5\\forza 5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9ABF44BF-FC56-4079-983F-5A59E03D594E}|forza 5.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9ABF44BF-FC56-4079-983F-5A59E03D594E}|forza 5.csproj|C:\\Users\\shuai.21032\\Desktop\\Forza_5\\forza 5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9ABF44BF-FC56-4079-983F-5A59E03D594E}|forza 5.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9ABF44BF-FC56-4079-983F-5A59E03D594E}|forza 5.csproj|c:\\users\\shuai.21032\\desktop\\forza_5\\forza 5\\scacchiera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABF44BF-FC56-4079-983F-5A59E03D594E}|forza 5.csproj|solutionrelative:scacchiera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9ABF44BF-FC56-4079-983F-5A59E03D594E}|forza 5.csproj|c:\\users\\shuai.21032\\desktop\\forza_5\\forza 5\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9ABF44BF-FC56-4079-983F-5A59E03D594E}|forza 5.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABF44BF-FC56-4079-983F-5A59E03D594E}|forza 5.csproj|c:\\users\\shuai.21032\\desktop\\forza_5\\forza 5\\chess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABF44BF-FC56-4079-983F-5A59E03D594E}|forza 5.csproj|solutionrelative:chess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9ABF44BF-FC56-4079-983F-5A59E03D594E}|forza 5.csproj|c:\\users\\shuai.21032\\desktop\\forza_5\\forza 5\\vittoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,7 +58,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\shuai.21032\\Desktop\\Forza_5\\forza 5\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Form1.Designer.cs",
@@ -71,20 +71,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "chess.cs",
               "DocumentMoniker": "C:\\Users\\shuai.21032\\Desktop\\Forza_5\\forza 5\\chess.cs",
               "RelativeDocumentMoniker": "chess.cs",
               "ToolTip": "C:\\Users\\shuai.21032\\Desktop\\Forza_5\\forza 5\\chess.cs",
               "RelativeToolTip": "chess.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAxwDoAAABQAAAAAAAAAA==",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwEIAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T22:19:48.577Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T22:19:48.577Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "scacchiera.cs",
               "DocumentMoniker": "C:\\Users\\shuai.21032\\Desktop\\Forza_5\\forza 5\\scacchiera.cs",
               "RelativeDocumentMoniker": "scacchiera.cs",
@@ -97,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "grandezze.cs",
               "DocumentMoniker": "C:\\Users\\shuai.21032\\Desktop\\Forza_5\\forza 5\\grandezze.cs",
               "RelativeDocumentMoniker": "grandezze.cs",
@@ -110,25 +109,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\shuai.21032\\Desktop\\Forza_5\\forza 5\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\shuai.21032\\Desktop\\Forza_5\\forza 5\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAmwGwAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\shuai.21032\\Desktop\\Forza_5\\forza 5\\Form1.cs*",
+              "RelativeToolTip": "Form1.cs*",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAwGEAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T21:24:35.265Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Progettazione]",
               "DocumentMoniker": "C:\\Users\\shuai.21032\\Desktop\\Forza_5\\forza 5\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\shuai.21032\\Desktop\\Forza_5\\forza 5\\Form1.cs [Progettazione]",
-              "RelativeToolTip": "Form1.cs [Progettazione]",
+              "ToolTip": "C:\\Users\\shuai.21032\\Desktop\\Forza_5\\forza 5\\Form1.cs [Progettazione]*",
+              "RelativeToolTip": "Form1.cs [Progettazione]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T21:15:14.553Z",
               "EditorCaption": " [Progettazione]"

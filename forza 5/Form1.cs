@@ -19,6 +19,7 @@ namespace forza_5
             InizializzaGioco();
             this.Width = grandezze.LarghezzaForm;
             this.Height = grandezze.AltezzaForm;
+            panel2.Size = new Size(grandezze.LarghezzaScacchiera, grandezze.AltezzaScacchiera);
         }
 
         private void InizializzaGioco()
@@ -94,7 +95,7 @@ namespace forza_5
             if (matriceScacchiera[x, y] != 0)
             {
 
-                MessageBox.Show("Posizione gi¨¤ occupata!", "Errore");
+                MessageBox.Show("Posizione già occupata!", "Errore");
                 return;
             }
 

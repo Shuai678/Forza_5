@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ziyis\\OneDrive\\Desktop\\forza 5\\forza 5.csproj": {}
+    "C:\\Users\\shuai.21032\\Desktop\\Forza_5\\forza 5\\forza 5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ziyis\\OneDrive\\Desktop\\forza 5\\forza 5.csproj": {
+    "C:\\Users\\shuai.21032\\Desktop\\Forza_5\\forza 5\\forza 5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ziyis\\OneDrive\\Desktop\\forza 5\\forza 5.csproj",
+        "projectUniqueName": "C:\\Users\\shuai.21032\\Desktop\\Forza_5\\forza 5\\forza 5.csproj",
         "projectName": "forza 5",
-        "projectPath": "C:\\Users\\ziyis\\OneDrive\\Desktop\\forza 5\\forza 5.csproj",
-        "packagesPath": "C:\\Users\\ziyis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ziyis\\OneDrive\\Desktop\\forza 5\\obj\\",
+        "projectPath": "C:\\Users\\shuai.21032\\Desktop\\Forza_5\\forza 5\\forza 5.csproj",
+        "packagesPath": "C:\\Users\\shuai.21032\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shuai.21032\\Desktop\\Forza_5\\forza 5\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\ziyis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\shuai.21032\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,24 +60,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.28, 6.0.28]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.28, 6.0.28]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.28, 6.0.28]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.28, 6.0.28]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -81,7 +68,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

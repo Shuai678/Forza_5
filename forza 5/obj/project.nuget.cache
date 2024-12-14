@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o6R1JLO+OpDcvW1KO8ot5jhpptcffm9OgE3T/JMkVFV4JheDZpHkjhSzrfZWwLzxTMKbPjVVeWlYXq1qZF+vtg==",
+  "dgSpecHash": "pve0AscSgXE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ziyis\\OneDrive\\Desktop\\forza 5\\forza 5.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\ziyis\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
-    "C:\\Users\\ziyis\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
-    "C:\\Users\\ziyis\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
-    "C:\\Users\\ziyis\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\shuai.21032\\Desktop\\Forza_5\\forza 5\\forza 5.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
